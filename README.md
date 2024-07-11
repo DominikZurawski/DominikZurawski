@@ -1,5 +1,4 @@
-
-![dino](https://github.com/DominikZurawski/DominikZurawski/assets/38438473/25c5ea47-cb94-4af3-9fa9-0b9fa76e7c78)
+<h2 align="left">Hi 👋! </h2>
 
 ## Languages and Tools 
 <div>
@@ -39,6 +38,15 @@
 | Selenium | Swagger | Postman | 
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ### OS:
