@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! </h2>
 
-## Languages and Tools 
-<div>
-
 ### Languages:
 | Python3 | C | JS | 
 |----------|----------|----------|
