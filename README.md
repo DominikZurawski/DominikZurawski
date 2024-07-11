@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/DominikZurawski/DominikZurawski/assets/38438473/a0444247-a511-4582-9fc5-6ae322276c1b)
 
 <!--
 **DominikZurawski/DominikZurawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
