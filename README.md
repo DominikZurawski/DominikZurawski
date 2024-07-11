@@ -1,14 +1,14 @@
 <h2 align="left">Hi 👋! </h2>
 
 ### Languages:
-| Python3 | C | JS | 
+| Python | C | JS | 
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="45" height="45"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="45" height="45"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/> |
 
   
 ### Python frameworks and main libraries:
 
-|Django | Flask | Numpy | Pandas | OpenCV | Plotly | Matplotlib | Jupyter | 
+| Django | Flask | Numpy | Pandas | OpenCV | Plotly | Matplotlib | Jupyter | 
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="45" height="45"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="45" height="45"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="45" height="45"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="45" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="45" height="45"/> |
 
@@ -16,7 +16,7 @@
 ### Databases:
 |  MySQL | Postgres | SQLite | MongoDB | 
 |----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="45" height="45"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="45" height="45"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="SQLite" alt="SQLite" width="45" height="45"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="45" height="45"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="45" height="45"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="SQLite" alt="SQLite" width="45" height="45"/>|
 
 
 ### Front-end:
