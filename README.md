@@ -1,4 +1,5 @@
-## Hi there 👋
+![dino](https://github.com/DominikZurawski/DominikZurawski/assets/38438473/8e6ac0b0-4b18-40c5-ab3d-ea42ea83d3bc)
+
 
 ## Languages and Tools 
 <div>
