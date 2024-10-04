@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! </h2>
+<h2 align="left">Hi I'm Dominik Żurawski👋! </h2>
 
-### Languages:
+#### Languages:
 <p>
   <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-### Python frameworks and main libraries:
+#### Python frameworks and main libraries:
 <p>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django" alt="Django" width="35" height="35"/>
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-### Databases:
+#### Databases:
 <p>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/>
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-### Front-end:
+#### Front-end:
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>
@@ -82,7 +82,7 @@
   </a>
 </p>
 
-### DevOps:
+#### DevOps:
 <p>
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="35" height="35"/>
@@ -98,7 +98,7 @@
   </a>
 </p>
 
-### Testing:
+#### Testing:
 <p>
   <a href="https://www.selenium.dev/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="35" height="35"/>
@@ -111,6 +111,6 @@
   </a>
 </p>
 
-###
+####
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DominikZurawski&show_icons=true" alt="DominikZurawski" /></p>
 -->
