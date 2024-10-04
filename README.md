@@ -112,6 +112,4 @@
 </p>
 
 ###
-<p align="center">
-<a href="https://linkedin.com/in/michał-ciołek-9ba1b4b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michał-ciołek-9ba1b4b5" height="30" width="30" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DominikZurawski&show_icons=true" alt="DominikZurawski" /></p>
