@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! </h2>
 
 ### Languages:
-<table border="0">
+<table style="border: none;">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="35" height="35"/></td>
@@ -10,7 +10,7 @@
 </table>
 
 ### Python frameworks and main libraries:
-<table border="0">
+<table style="border: none;">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django" alt="Django" width="35" height="35"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Pandas" alt="Pandas" width="35" height="35"/></td>
@@ -26,7 +26,7 @@
 </table>
 
 ### Databases:
-<table border="0">
+<table style="border: none;">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="35" height="35"/></td>
@@ -36,7 +36,7 @@
 </table>
 
 ### Front-end:
-<table border="0">
+<table style="border: none;">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="35" height="35"/></td>
@@ -47,7 +47,7 @@
 </table>
 
 ### DevOps:
-<table border="0">
+<table style="border: none;">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Git" alt="Git" width="35" height="35"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="35" height="35"/></td>
@@ -57,7 +57,7 @@
 </table>
 
 ### Testing:
-<table border="0">
+<table style="border: none;">
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="35" height="35"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="35" height="35"/></td>
