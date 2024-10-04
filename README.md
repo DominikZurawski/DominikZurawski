@@ -112,4 +112,5 @@
 </p>
 
 ###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DominikZurawski&show_icons=true" alt="DominikZurawski" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DominikZurawski&show_icons=true" alt="DominikZurawski" /></p>
+-->
