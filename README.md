@@ -1,4 +1,4 @@
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominik-zurawski)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23000000.svg?style=for-the-badge&logo=Huggingface&logoColor=yellow)](https://huggingface.co/Domino675)
 
